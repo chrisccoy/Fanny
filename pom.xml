@@ -6,7 +6,7 @@
   <build>
     <sourceDirectory>src</sourceDirectory>
             <plugins>
-            <!-- Copy Dockerfile into target and replaces values inside -->
+            <!-- Copy Dockerfile into Target and replaces values inside -->
             <plugin>
                 <artifactId>maven-resources-plugin</artifactId>
                 <executions>
